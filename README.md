@@ -3,6 +3,7 @@
 
 ### First Dashboard
 First dashboard is just a simple plain dashboard staring to getting familiar with Power Bi.
+https://github.com/kinsin5/Learnin_Dashboards/blob/main/FirstDashboard.pdf
 
 ### Second Dashboard
 This is a lot more complicated
